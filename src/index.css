@@ -1,0 +1,24 @@
+body{
+  background-color:beige;
+}
+.img{
+  width: 50px;
+  height: 50px;
+}
+/* Add the cosmic background class */
+.cosmic-background {
+  background-size: cover;
+}
+
+/* Add any additional styles for your card or card body */
+.card-style {
+  width: 18rem;
+  overflow: hidden;
+  background-color: rgb(179, 240, 219);
+}
+
+.card-body-style {
+  max-height: 300px; /* Set your desired maximum height */
+  overflow-y: auto;
+  
+}
